@@ -1,0 +1,13 @@
+5 pages
+-home
+-contact
+-about(dropdown),(sub menu)
+	-acievements
+	-activities
+
+page content
+home: carousel, featurettes
+contact: json data with angular
+about: scrolling
+activities: bubbles
+achievements:bubbles
